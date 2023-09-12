@@ -1,3 +1,6 @@
 # gitlek2
 
-> Detta är en fil som kommer att synas på första sidan.
+1. List Item 1
+2. List Item 2
+3. List Item 3
+
